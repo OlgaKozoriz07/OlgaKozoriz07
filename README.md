@@ -26,7 +26,6 @@ I enjoy working with server-side logic, APIs, and databases, while continuing to
 - **Backend:** Node.js, Express
 - **Database:** MongoDB
 - **Tools:** Git, GitHub, VS Code, Postman
-- **Currently learning:** TypeScript, Next.js
 
 ## Current Focus
 - Practicing JavaScript and React
