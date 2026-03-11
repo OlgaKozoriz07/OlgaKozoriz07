@@ -1,8 +1,9 @@
-# Hi, I'm Olga 👋
+# Hi, I'm Olga 
+I'm a Junior Full Stack Developer👋
 
 ## About Me
-I'm an aspiring Full Stack Developer passionate about web development and continuous learning.  
-I’m currently focused on improving my frontend and backend skills by building practical projects and strengthening my technical foundation.
+I'm an aspiring Full Stack Developer currently leaning more toward backend development.  
+I enjoy working with server-side logic, APIs, and databases, while continuing to strengthen my frontend skills as well.
 
 ## Tech Stack
 - **Frontend:** HTML, CSS, JavaScript, React
@@ -17,9 +18,7 @@ I’m currently focused on improving my frontend and backend skills by building 
 - Working with APIs and databases
 - Building projects for my portfolio
 
-## Projects
-Here you can explore the projects I’ve built while learning modern web development.
 
 ## Connect with Me
-- **LinkedIn:** [your LinkedIn link here]
-- **Email:** [your email here]
+- **LinkedIn:** https://www.linkedin.com/in/olga-kozoriz/
+- **Email:** olga.kozoriz7@gmail.com
