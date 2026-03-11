@@ -33,6 +33,17 @@ I enjoy working with server-side logic, APIs, and databases, while continuing to
 - Working with APIs and databases
 - Building projects for my portfolio
 
+## Featured Projects
+### NoteHub
+A web application for managing personal notes in a simple and organized way.  
+Users can browse notes by category, create new notes, and use authentication pages for account access. The project is focused on clean structure, usability, and practical note organization.
+**Live Demo:** [NoteHub](https://09-auth-fawn-chi.vercel.app/)
+
+### Vyshyvanka Vibes
+A responsive e-commerce style landing page for a Ukrainian embroidery brand.  
+The website presents the brand story, product collection, customer order section, and testimonials, combining cultural identity with a clean and modern user interface.
+
+**Live Demo:** [Vyshyvanka Vibes](https://yuliia-oliinyk777.github.io/project-AmazingTeam-10/)
 
 ## Connect with Me
 - **LinkedIn:** https://www.linkedin.com/in/olga-kozoriz/
