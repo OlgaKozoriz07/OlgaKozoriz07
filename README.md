@@ -1,5 +1,4 @@
 # Hi, I'm Olga Kozoriz👋
-I'm a Junior Full Stack Developer.
 
 ## About Me
 I'm an aspiring Full Stack Developer currently leaning more toward backend development.  
