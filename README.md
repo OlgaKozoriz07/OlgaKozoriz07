@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Olga 👋
 
-<!--
-**OlgaKozoriz07/OlgaKozoriz07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm an aspiring Full Stack Developer passionate about web development and continuous learning.  
+I’m currently focused on improving my frontend and backend skills by building practical projects and strengthening my technical foundation.
 
-Here are some ideas to get you started:
+## Tech Stack
+- **Frontend:** HTML, CSS, JavaScript, React
+- **Backend:** Node.js, Express
+- **Database:** MongoDB
+- **Tools:** Git, GitHub, VS Code, Postman
+- **Currently learning:** TypeScript, Next.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+- Practicing JavaScript and React
+- Learning backend development with Node.js and Express
+- Working with APIs and databases
+- Building projects for my portfolio
+
+## Projects
+Here you can explore the projects I’ve built while learning modern web development.
+
+## Connect with Me
+- **LinkedIn:** [your LinkedIn link here]
+- **Email:** [your email here]
